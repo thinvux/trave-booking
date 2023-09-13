@@ -1,0 +1,5 @@
+
+frontend/package-lock.json
+backend/src/main/resources/application.properties
+backend/src/main/resources/application.properties
+*.properties
